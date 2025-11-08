@@ -1,0 +1,8 @@
+{
+    "uuid": "selfcarebot@ap0r",
+    "name": "Self-Care Bot",
+    "description": "Displays useful self-care messages",
+    "version": "0.0.1",
+    "prevent-decorations": false,
+    "author": "ap0r"
+}
