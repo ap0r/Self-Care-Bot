@@ -1,10 +1,10 @@
 ### **What is this?**
-Tinycarebot is an applet that will reside in a panel of your choice and display a message every five minutes. The messages revolve around the themes of body, mind, environment, social ties, and practical order.
+**Tinycarebot** is an applet that will reside in a panel of your choice and display a message every five minutes. The messages revolve around the themes of **body, mind, environment, social ties,** and **practical order**.
 
 <img width="353" height="125" alt="image" src="https://github.com/user-attachments/assets/96368ceb-8b33-4613-9004-0bb3a02d570d" />
 
 
-Some messages encourage hydration, movement, stretching, posture, breathing, and taking care of eyesight. Others encourage calm, gratitude, or positivity. The bot may occasionally give you tasks that that draw attention to your surroundings. They re-engage the senses and pull focus away from screens. Some social prompts involve reaching out or recalling others. They fight isolation and reinforce interpersonal bonds. Lastly, the bot will give gentle reminders about cleaning, planning, or completing tasks. These promote order and small productivity wins.
+Some messages encourage hydration, movement, stretching, posture, breathing, or resting your eyes. Others promote calm, gratitude, and positivity. Occasionally, the bot suggests tasks that draw attention to your surroundings, helping you re-engage your senses and step away from the screen. Social prompts remind you to reach out or think of others, reducing isolation and reinforcing connection. Finally, practical reminders help with cleaning, planning, and completing small tasks — simple steps toward order and productivity.
 
 ### **How to install**
 
