@@ -6,6 +6,9 @@
 
 Some messages encourage hydration, movement, stretching, posture, breathing, or resting your eyes. Others promote calm, gratitude, and positivity. Occasionally, the bot suggests tasks that draw attention to your surroundings, helping you re-engage your senses and step away from the screen. Social prompts remind you to reach out or think of others, reducing isolation and reinforcing connection. Finally, practical reminders help with cleaning, planning, and completing small tasks — simple steps toward order and productivity.
 
+<img width="235" height="118" alt="image" src="https://github.com/user-attachments/assets/b4e56ecc-9698-47d3-ae3b-39d5d07339b7" />
+
+
 ### **How to install**
 
 Download the files. Go to /home/your user name/.local/share/cinnamon/applets/ and create a folder named tinycarebot@ap0r. Navigate to /home/your user name/.local/share/cinnamon/applets/tinycarebot@ap0r, and place the downloaded files there. Once that is done, the applet should be available to add to any panel. However, note that it will look best on horizontal panels.
