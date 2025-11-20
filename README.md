@@ -7,7 +7,7 @@ Some messages encourage hydration, movement, stretching, posture, breathing, or 
 
 <img width="235" height="118" alt="image" src="https://github.com/user-attachments/assets/b4e56ecc-9698-47d3-ae3b-39d5d07339b7" />
 
-At any time, you can get a new message bny clicking the applet.
+At any time, you can get a new message by clicking the applet.
 If you want to add, remove, or change a message just edit the `messages.json` file with your favorite text editor.
 
 ### **How to install**
